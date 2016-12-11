@@ -1,0 +1,22 @@
+login details:
+
+Admin
+username:venkat
+password:venkat123
+
+Doctor:
+username:venkat
+password:test
+
+Username: asane	
+Password: asane
+
+Username: cwhite	
+Password: cwhite
+
+Patient
+Username: testuser	
+Password: test
+
+
+
